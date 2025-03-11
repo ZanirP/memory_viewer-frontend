@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'memory-viewer-backend-production.up.railway.app'
+  baseURL: 'https://memory-viewer-backend-production.up.railway.app'
 });
 
 
